@@ -1,0 +1,7 @@
+require("plugins.telescope")
+require("plugins.treesitter")
+require("plugins.cmp")
+require("plugins.lsp")
+require("plugins.catppuccin")
+require("plugins.undotree")
+require("plugins.harpoon")
